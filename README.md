@@ -1,4 +1,4 @@
-# RAG Document Query System
+# Code Pilot
 
 Upload any file (ZIP, DOCX, PDF, TXT, code files) and ask questions about it in natural language. Get simple, clear answers powered by AI.
 
