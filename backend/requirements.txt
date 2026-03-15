@@ -1,0 +1,11 @@
+flask
+flask-cors
+langchain
+langchain-text-splitters
+langchain-community
+faiss-cpu
+sentence-transformers
+requests
+python-docx
+PyPDF2
+python-dotenv
